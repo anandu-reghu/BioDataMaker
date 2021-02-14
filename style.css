@@ -1,0 +1,53 @@
+/* 
+#e7e6e1
+#f7f6e7
+#f2a154
+#314e52
+ */
+
+html {
+  font-family: "Montserrat", sans-serif;
+  padding: 50px;
+  background-color: #e7e6e1;
+  color: #314e52;
+  font-size: 30px;
+  text-align: center;
+}
+.mainHead {
+  font-size: 50px;
+  font-weight: 800;
+  color: #f2a154;
+}
+table {
+  color: #314e52;
+  font-size: 24px;
+  margin: 0px auto;
+}
+
+.data {
+  /* min-width: 0px; */
+  font-size: 20px;
+  padding: 4px;
+  border-radius: 5px;
+  /* background-color: #f7f6e7; */
+  color: #314e52;
+}
+
+.data-drop {
+  /* min-width: 100px; */
+  font-size: 18px;
+  padding: 4px;
+  border-radius: 5px;
+  /* background-color: #f7f6e7; */
+  color: #314e52;
+}
+
+table,
+td,
+th {
+  padding: 10px;
+}
+
+textarea {
+  width: 260px;
+}
